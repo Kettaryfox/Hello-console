@@ -1,0 +1,15 @@
+C:\Users\NASTJ\Desktop\с язык\example1_hello\bin\Debug\net6.0\example1_hello.exe
+C:\Users\NASTJ\Desktop\с язык\example1_hello\bin\Debug\net6.0\example1_hello.deps.json
+C:\Users\NASTJ\Desktop\с язык\example1_hello\bin\Debug\net6.0\example1_hello.runtimeconfig.json
+C:\Users\NASTJ\Desktop\с язык\example1_hello\bin\Debug\net6.0\example1_hello.dll
+C:\Users\NASTJ\Desktop\с язык\example1_hello\bin\Debug\net6.0\example1_hello.pdb
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\example1_hello.csproj.AssemblyReference.cache
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\example1_hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\example1_hello.AssemblyInfoInputs.cache
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\example1_hello.AssemblyInfo.cs
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\example1_hello.csproj.CoreCompileInputs.cache
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\example1_hello.dll
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\refint\example1_hello.dll
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\example1_hello.pdb
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\example1_hello.genruntimeconfig.cache
+C:\Users\NASTJ\Desktop\с язык\example1_hello\obj\Debug\net6.0\ref\example1_hello.dll
