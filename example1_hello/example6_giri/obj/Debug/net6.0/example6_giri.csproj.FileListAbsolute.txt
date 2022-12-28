@@ -1,0 +1,15 @@
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\bin\Debug\net6.0\example6_giri.exe
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\bin\Debug\net6.0\example6_giri.deps.json
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\bin\Debug\net6.0\example6_giri.runtimeconfig.json
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\bin\Debug\net6.0\example6_giri.dll
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\bin\Debug\net6.0\example6_giri.pdb
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\example6_giri.csproj.AssemblyReference.cache
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\example6_giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\example6_giri.AssemblyInfoInputs.cache
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\example6_giri.AssemblyInfo.cs
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\example6_giri.csproj.CoreCompileInputs.cache
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\example6_giri.dll
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\refint\example6_giri.dll
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\example6_giri.pdb
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\example6_giri.genruntimeconfig.cache
+C:\Users\NASTJ\Desktop\с язык\example1_hello\example6_giri\obj\Debug\net6.0\ref\example6_giri.dll
